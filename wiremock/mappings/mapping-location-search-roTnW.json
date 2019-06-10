@@ -1,0 +1,27 @@
+{
+  "id" : "ccc36361-4e1f-334f-b185-d698646da978",
+  "request" : {
+    "url" : "/location/search/?query=moscow",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-search-roTnW.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : [ "Accept-Language, Cookie", "Accept-Encoding" ],
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f2fefda312aa12c03c5ab2271adfc0be",
+      "Date" : "Sun, 05 May 2019 21:54:12 GMT",
+      "Server" : "Google Frontend",
+      "Cache-Control" : "private",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "ccc36361-4e1f-334f-b185-d698646da978"
+}

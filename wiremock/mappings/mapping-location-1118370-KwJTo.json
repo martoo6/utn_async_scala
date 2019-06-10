@@ -1,0 +1,27 @@
+{
+  "id" : "551674bc-7762-35e5-b65a-0a1637b62706",
+  "request" : {
+    "url" : "/location/1118370/",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-1118370-KwJTo.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : [ "Accept-Language, Cookie", "Accept-Encoding" ],
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "be1ef93286877f307d9d67bc4ccb41d6",
+      "Date" : "Sun, 05 May 2019 21:54:16 GMT",
+      "Server" : "Google Frontend",
+      "Cache-Control" : "private",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "551674bc-7762-35e5-b65a-0a1637b62706"
+}

@@ -1,0 +1,27 @@
+{
+  "id" : "e71efed1-560d-3b70-9965-05046ce998ff",
+  "request" : {
+    "url" : "/location/766273/",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-766273-4PTiO.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : [ "Accept-Language, Cookie", "Accept-Encoding" ],
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "672aa6baff7b13c4c33bd4f983a16fed",
+      "Date" : "Sun, 05 May 2019 21:54:18 GMT",
+      "Server" : "Google Frontend",
+      "Cache-Control" : "private",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "e71efed1-560d-3b70-9965-05046ce998ff"
+}

@@ -1,0 +1,27 @@
+{
+  "id" : "feae155f-fc9c-3f22-bca4-725eda178598",
+  "request" : {
+    "url" : "/location/search/?query=seoul",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-search-89BuN.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : [ "Accept-Language, Cookie", "Accept-Encoding" ],
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "91c72ed2bc68255a95629ff21d439ff0;o=1",
+      "Date" : "Sun, 05 May 2019 21:54:12 GMT",
+      "Server" : "Google Frontend",
+      "Cache-Control" : "private",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "feae155f-fc9c-3f22-bca4-725eda178598"
+}

@@ -1,0 +1,27 @@
+{
+  "id" : "dd2ac401-542b-36f9-ab5a-070469d5ef9a",
+  "request" : {
+    "url" : "/location/721943/",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-721943-ArtCc.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : [ "Accept-Language, Cookie", "Accept-Encoding" ],
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "47b396206ec31403b7b7afdd9515cd94",
+      "Date" : "Sun, 05 May 2019 21:54:15 GMT",
+      "Server" : "Google Frontend",
+      "Cache-Control" : "private",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "dd2ac401-542b-36f9-ab5a-070469d5ef9a"
+}

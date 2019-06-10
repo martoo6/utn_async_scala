@@ -1,0 +1,27 @@
+{
+  "id" : "e1689d3c-23b1-3df9-ac1b-d519dc8b2a3d",
+  "request" : {
+    "url" : "/location/search/?query=rome",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-search-0wow0.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : [ "Accept-Language, Cookie", "Accept-Encoding" ],
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "703e007a25f43c2cd13fdaf395a81f78",
+      "Date" : "Sun, 05 May 2019 21:54:10 GMT",
+      "Server" : "Google Frontend",
+      "Cache-Control" : "private",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "e1689d3c-23b1-3df9-ac1b-d519dc8b2a3d"
+}

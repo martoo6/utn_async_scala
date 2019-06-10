@@ -1,0 +1,24 @@
+{
+  "id" : "e3086ca7-5a43-37ec-a79c-e33dc5b0eb4a",
+  "request" : {
+    "url" : "/location/undefined/",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 404,
+    "bodyFileName" : "body-location-undefined-rHHvB.txt",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : "Accept-Language, Cookie",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "text/html; charset=utf-8",
+      "X-Cloud-Trace-Context" : "42bdc711cddad182902d40b2085ff638",
+      "Date" : "Tue, 07 May 2019 02:01:19 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e3086ca7-5a43-37ec-a79c-e33dc5b0eb4a"
+}

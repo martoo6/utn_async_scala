@@ -1,0 +1,27 @@
+{
+  "id" : "886550be-9575-361e-bd51-807721412557",
+  "request" : {
+    "url" : "/location/search/?query=london",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-search-Kzue3.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : [ "Accept-Language, Cookie", "Accept-Encoding" ],
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7866321abb8d02abbc423fc60c722445",
+      "Date" : "Sun, 05 May 2019 21:54:09 GMT",
+      "Server" : "Google Frontend",
+      "Cache-Control" : "private",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "886550be-9575-361e-bd51-807721412557"
+}

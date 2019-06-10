@@ -1,0 +1,27 @@
+{
+  "id" : "cc9ffd6c-ed61-3e2c-84de-148d3bfd668f",
+  "request" : {
+    "url" : "/location/search/?query=buenos+aires",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-search-iHHhu.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : [ "Accept-Language, Cookie", "Accept-Encoding" ],
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "cbd9e9dbe1a36db769feedcc4c2659ac",
+      "Date" : "Sun, 05 May 2019 21:54:10 GMT",
+      "Server" : "Google Frontend",
+      "Cache-Control" : "private",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "cc9ffd6c-ed61-3e2c-84de-148d3bfd668f"
+}

@@ -1,0 +1,27 @@
+{
+  "id" : "6d06fcf6-f258-3141-bd7a-bb5366b2009f",
+  "request" : {
+    "url" : "/location/search/?query=madrid",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-search-0cQgB.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : [ "Accept-Language, Cookie", "Accept-Encoding" ],
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "394c8a3979e036dafe6463af7ea9d37c",
+      "Date" : "Sun, 05 May 2019 21:54:11 GMT",
+      "Server" : "Google Frontend",
+      "Cache-Control" : "private",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "6d06fcf6-f258-3141-bd7a-bb5366b2009f"
+}

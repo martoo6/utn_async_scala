@@ -1,0 +1,25 @@
+{
+  "id" : "a15d1c0f-d560-3643-8957-5b5f47dd8c0d",
+  "request" : {
+    "url" : "/location/search/?query=buenos%20aires",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-search-6I2yS.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : "Accept-Language, Cookie",
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d96f5f388a64c132db5cbd1646c01623",
+      "Date" : "Tue, 07 May 2019 02:01:19 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a15d1c0f-d560-3643-8957-5b5f47dd8c0d"
+}

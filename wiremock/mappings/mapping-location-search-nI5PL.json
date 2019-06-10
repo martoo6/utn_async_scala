@@ -1,0 +1,25 @@
+{
+  "id" : "989f78ca-3ec7-3eb6-83a5-72a6254a798b",
+  "request" : {
+    "url" : "/location/search/?query=new%20york",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-search-nI5PL.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : "Accept-Language, Cookie",
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2f1f173ed3e08c64b5c53ea61197ab6e",
+      "Date" : "Tue, 07 May 2019 02:01:19 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "989f78ca-3ec7-3eb6-83a5-72a6254a798b"
+}

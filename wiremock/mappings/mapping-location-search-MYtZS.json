@@ -1,0 +1,27 @@
+{
+  "id" : "2895aab2-fb9a-3ad9-9f44-26d796fbb305",
+  "request" : {
+    "url" : "/location/search/?query=tokyo",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-location-search-MYtZS.json",
+    "headers" : {
+      "x-xss-protection" : "1; mode=block",
+      "Content-Language" : "en",
+      "x-content-type-options" : "nosniff",
+      "strict-transport-security" : "max-age=2592000; includeSubDomains",
+      "Vary" : [ "Accept-Language, Cookie", "Accept-Encoding" ],
+      "Allow" : "GET, HEAD, OPTIONS",
+      "x-frame-options" : "DENY",
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "748a5beb531bb1996c1677599bb06aa7",
+      "Date" : "Sun, 05 May 2019 21:54:10 GMT",
+      "Server" : "Google Frontend",
+      "Cache-Control" : "private",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "2895aab2-fb9a-3ad9-9f44-26d796fbb305"
+}
